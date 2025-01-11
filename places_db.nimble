@@ -10,3 +10,5 @@ srcDir        = "src"
 # Dependencies
 
 requires "nim >= 2.2.0"
+
+requires "https://github.com/ayman-albaz/nim-duckdb >= 0.4.0"
